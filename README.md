@@ -4,12 +4,6 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+sakura-forge+%F0%9F%8C%B8;I+forge+beautiful+code+from+petals+and+pixels;Full-Stack+Developer+%7C+Open+Source+Lover;Welcome+to+my+digital+garden+%E2%9C%A8)](https://git.io/typing-svg)
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=sakura-forge&label=Profile%20views&color=ff8fab&style=flat" alt="views" />
-    <img src="https://img.shields.io/github/followers/sakura-forge?label=Followers&style=flat&color=ff8fab" alt="followers" />
-    <img src="https://img.shields.io/badge/focus-full--stack-ff8fab?style=flat" alt="focus" />
-    <img src="https://img.shields.io/badge/pronouns-whatever-feels-right-ffb3c6?style=flat" alt="pronouns" />
-  </p>
 
   <p><i>“Fall seven times, bloom eight.” 🌸 — building with grace, shipping with grit.</i></p>
 
